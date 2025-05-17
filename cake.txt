@@ -1,6 +1,6 @@
 How to make a cake:
-Step 1) Purchase sugar
-Step 2) Purchase flour
-Step 3) Purchase eggs
-Step 4) Mix ingredients
-Step 5) Bake the cake
+ 1) Purchase sugar
+ 2) Purchase flour
+ 3) Purchase eggs
+ 4) Mix ingredients
+ 5) Bake the cake
